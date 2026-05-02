@@ -2,7 +2,7 @@
 
 cctracker is a music tracker program written for the CC: Tweaked mod for Minecraft.
 
-![cctracker_example](https://github.com/James-Dumas/cctracker/blob/master/cctracker.png)
+![cctracker_example](https://github.com/jamac-dumas/cctracker/blob/master/cctracker.png)
 
 You can easily download it on your ComputerCraft computer with this command:
 
